@@ -11,4 +11,12 @@
 3. change the ```path/to/bookmarks``` to the exported file path
 4. Run the ```bm.py``` file using ```python3 bm.py```
 
+
+
+
 ![image](https://user-images.githubusercontent.com/83577193/150166442-8092407d-6ba2-4233-a83e-7b9a87b5fe4e.png)
+
+
+
+## Tip 
+***you can add an ```alias``` to ur bashrc to run this quickly***
